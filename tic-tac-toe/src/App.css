@@ -28,3 +28,9 @@ h1{
   border-radius: 10px;
   background-color: rgb(213, 255, 145);
 }
+.status{
+  color: white;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
